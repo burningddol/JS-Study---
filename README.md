@@ -4,9 +4,9 @@
 
 ## [WiKi](https://github.com/burningddol/JS-Study---/wiki) 에서 학습 시작하기 
 
-- 1단계: 언어의 뼈대
- - 2단계: 실행 컨텍스트와 클로저
- - 3단계: this와 함수
+- [1단계: 언어의 뼈대](https://github.com/burningddol/JS-Study---/wiki/1%EB%8B%A8%EA%B3%84:-%EC%96%B8%EC%96%B4%EC%9D%98-%EB%BC%88%EB%8C%80)
+ - [2단계: 실행 컨텍스트와 클로저](https://github.com/burningddol/JS-Study---/wiki/2%EB%8B%A8%EA%B3%84:-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80)
+ - [3단계: this와 함수](https://github.com/burningddol/JS-Study---/wiki/3%EB%8B%A8%EA%B3%84:-this%EC%99%80-%ED%95%A8%EC%88%98)
  - 4단계: 프로토타입과 객체
  - 5단계: 비동기
  - 6단계: 배열/객체 심화와 이터레이션
