@@ -9,7 +9,7 @@
  - [3단계: this와 함수](https://github.com/burningddol/JS-Study---/wiki/3%EB%8B%A8%EA%B3%84:-this%EC%99%80-%ED%95%A8%EC%88%98)
  - [4단계: 프로토타입과 객체](https://github.com/burningddol/JS-Study---/wiki/4%EB%8B%A8%EA%B3%84:-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EA%B3%BC-%EA%B0%9D%EC%B2%B4)
  - [5단계: 비동기](https://github.com/burningddol/JS-Study---/wiki/5%EB%8B%A8%EA%B3%84:-%EB%B9%84%EB%8F%99%EA%B8%B0)
- - 6단계: 배열/객체 심화와 이터레이션
+ - [6단계: 배열/객체 심화와 이터레이션](https://github.com/burningddol/JS-Study---/wiki/6%EB%8B%A8%EA%B3%84:-%EB%B0%B0%EC%97%B4-%EA%B0%9D%EC%B2%B4-%EC%8B%AC%ED%99%94%EC%99%80-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98)
  - 7단계: 모듈 시스템
  - 8단계: DOM과 이벤트
 
